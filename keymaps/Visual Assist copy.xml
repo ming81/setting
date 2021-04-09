@@ -9,4 +9,13 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="HippieCompletion" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
 </keymap>
