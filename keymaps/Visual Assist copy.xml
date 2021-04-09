@@ -1,6 +1,0 @@
-<keymap version="1" name="Visual Assist copy" parent="Visual Assist">
-  <action id="ToggleFullScreen" />
-  <action id="ToggleZenMode">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
-  </action>
-</keymap>
