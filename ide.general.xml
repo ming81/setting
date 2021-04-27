@@ -15,7 +15,5 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
