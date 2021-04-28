@@ -2,4 +2,8 @@
   <component name="RiderCodeCompletionExtraSettings">
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
   </component>
+  <component name="RiderDefaultCodeFoldingSettings">
+    <option name="collapseComments" value="true" />
+    <option name="collapseRegions" value="false" />
+  </component>
 </application>
